@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Gttunddb",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjIxMQ"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjIxMQ",
+      "name": "Handcrafted Cotton Chair",
+      "slug": "seeded-handcrafted-cotton-chair-rhwol",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
